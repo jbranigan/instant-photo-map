@@ -1,0 +1,13 @@
+{
+  "name": "instant-photo-map",
+  "version": "0.0.1",
+  "description": "map photos via gps data",
+  "author": "jbranigan",
+  "dependencies": {
+    "exif": "^0.4.0",
+    "fs": "0.0.2",
+    "geojson": "^0.2.0",
+    "graceful-fs": "^3.0.7",
+    "jsonfile": "^2.0.0"
+  }
+}
